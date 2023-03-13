@@ -1,0 +1,28 @@
+---
+title: "Régis Gourdel"
+search: false
+about:
+    template: trestles
+    image: profile.jpg
+    image-width: 14em
+    links:
+        - icon: twitter
+          text: Twitter
+          href: https://twitter.com/RegisGourdel
+        - icon: github
+          text: Github
+          href: https://github.com/RegisGourdel
+---
+
+I am a researcher in climate finance at the Institute for Ecological Economics of WU Vienna.
+I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
+
+### Education
+
+- _PhD in Economics_, Vienna University of Economics and Business (Austria), Sept 2020 - Present
+- _MSc in Applicable Mathematics_, London School of Economics and Political Science (U.K.), Sept 2017 - Aug 2018
+- _MSc in Engineering_, Télécom Paris (France), Sept 2015 - Aug 2017
+
+### Contact
+
+regis.gourdel [at] wu.ac.at
