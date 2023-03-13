@@ -1,20 +1,33 @@
 ---
 title: "Régis Gourdel"
 search: false
+max-width: 1600px
 about:
     template: trestles
     image: profile.jpg
     image-width: 14em
     links:
+        - icon: mastodon
+          text: Mastodon
+          href: https://econtwitter.net/@RegisGourdel
         - icon: twitter
           text: Twitter
           href: https://twitter.com/RegisGourdel
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/regisgourdel/
+        - icon: bookmark-fill
+          text: Orcid
+          href: https://orcid.org/0000-0002-1638-9765
+        - icon: mortarboard-fill
+          text: Scholar
+          href: https://scholar.google.fr/citations?user=1xZrPK0AAAAJ
         - icon: github
           text: Github
           href: https://github.com/RegisGourdel
 ---
 
-I am a researcher in climate finance at the Institute for Ecological Economics of WU Vienna.
+I am a researcher in climate finance and PhD candidate at the Institute for Ecological Economics of WU Vienna, as well as an incoming research fellow at the university Ca'Foscari of Venice.
 I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
 
 ### Education

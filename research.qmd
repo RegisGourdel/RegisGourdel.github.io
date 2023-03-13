@@ -1,0 +1,30 @@
+---
+title: "Research"
+search: false
+---
+
+### Journal publications
+
+- Gourdel et al. (2023), __The double materiality of climate physical and transition risks in the euro area__, Journal of Financial Stability. Forthcoming
+
+- Sydow et al. (2023), __Shock amplification in an interconnected financial system of banks and investment funds__, _Journal of Financial Stability_. Forthcoming
+
+- Monasterolo et al. (2022), [Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects](https://link.springer.com/article/10.1007/s43253-021-00062-3), _Review of Evolutionary Political Economy_ 3 (1), 31-71
+
+### Working papers
+
+- Gourdel and Sydow (2022), [Non-banks contagion and the uneven mitigation of climate risk](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
+
+- Gourdel and Monasterolo (2022), [Climate physical risk, transition spillovers and fiscal stability: an application to Barbados](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/), technical paper for the Task Force on Climate, Development and the IMF
+
+- Gourdel, Monasterolo and Gallagher (2022), [Climate transition spillovers and sovereign risk: evidence from Indonesia](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/), technical paper for the Task Force on Climate, Development and the IMF
+
+- Gourdel et al. (2022), [The double materiality of climate physical and transition risks in the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
+
+- Sydow et al. (2021), [Shock amplification in an interconnected financial system of banks and investment funds](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
+
+- Gourdel, Maqui and Sydow (2019), [Investment funds under stress](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2323~e3e995fe5c.en.pdf), ECB working paper No. 2323
+
+### Other publications
+
+- Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1

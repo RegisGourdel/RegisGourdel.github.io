@@ -3,19 +3,21 @@ project:
 
 website:
   title: "Régis Gourdel"
-  page-footer: "Copyright 2023, Régis Gourdel. Photo credit: Sânziana Perju."
+  page-footer: "Copyright 2023, <a rel='me' href='https://econtwitter.net/@RegisGourdel'>Régis Gourdel</a>. Photo credit: Sânziana Perju."
   site-url: https://regisgourdel.github.io/
   search: false
+  twitter-card: true
+  open-graph: true
   favicon: owl_3d.png
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
 
 format:
   html:
-    theme:
-      light: simplex
-      dark: cyborg
+    theme: zephyr
     css: styles.css
     toc: true
