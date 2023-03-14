@@ -5,7 +5,7 @@ search: false
 
 ### Journal publications
 
-- Gourdel et al. (2023), __The double materiality of climate physical and transition risks in the euro area__, Journal of Financial Stability. Forthcoming
+- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2023), __The double materiality of climate physical and transition risks in the euro area__, Journal of Financial Stability. Forthcoming
 
 - Sydow et al. (2023), __Shock amplification in an interconnected financial system of banks and investment funds__, _Journal of Financial Stability_. Forthcoming
 
@@ -19,7 +19,8 @@ search: false
 
 - Gourdel, Monasterolo and Gallagher (2022), [Climate transition spillovers and sovereign risk: evidence from Indonesia](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/), technical paper for the Task Force on Climate, Development and the IMF
 
-- Gourdel et al. (2022), [The double materiality of climate physical and transition risks in the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
+- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2022), [The double materiality of climate physical and transition risks in the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
+    + [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
 
 - Sydow et al. (2021), [Shock amplification in an interconnected financial system of banks and investment funds](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
 
