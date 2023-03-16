@@ -2,9 +2,10 @@
 title: "Régis Gourdel"
 search: false
 max-width: 1600px
+toc: false
 about:
     template: trestles
-    image: profile.jpg
+    image: graphics/profile.jpg
     image-width: 14em
     links:
         - icon: mastodon
@@ -27,14 +28,16 @@ about:
           href: https://github.com/RegisGourdel
 ---
 
-I am a researcher in climate finance and PhD candidate at the Institute for Ecological Economics of WU Vienna, as well as an incoming research fellow at the university Ca'Foscari of Venice.
+## About
+
+I am a researcher in climate finance and PhD candidate at the Institute for Ecological Economics of WU Vienna, as well as an incoming research fellow at Ca' Foscari University of Venice.
 I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
 
 ### Education
 
-- _PhD candidate in Economics_, Vienna University of Economics and Business (Austria), Sept 2020 - Present
-- _MSc in Applicable Mathematics_, London School of Economics and Political Science (U.K.), Sept 2017 - Aug 2018
-- _MSc in Engineering_, Télécom Paris (France), Sept 2015 - Aug 2017
+- _PhD candidate in Economics_, Vienna University of Economics and Business (Austria), 2020 - Present
+- _MSc in Applicable Mathematics_, London School of Economics and Political Science (U.K.), 2017 - 2018
+- _MSc in Engineering_, Télécom Paris (France), 2015 - 2017
 
 ### Contact
 

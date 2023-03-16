@@ -25,6 +25,7 @@ search: false
 - Sydow et al. (2021), [Shock amplification in an interconnected financial system of banks and investment funds](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
 
 - Gourdel, Maqui and Sydow (2019), [Investment funds under stress](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2323~e3e995fe5c.en.pdf), ECB working paper No. 2323
+    + Media coverage: [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds), [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)
 
 ### Other publications
 
