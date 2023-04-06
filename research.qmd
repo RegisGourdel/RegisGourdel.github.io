@@ -14,6 +14,7 @@ search: false
 ### Working papers
 
 - Gourdel and Sydow (2022), [Non-banks contagion and the uneven mitigation of climate risk](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
+    + Summary box *Dual risk in investment fund climate stress testing* in [The macroprudential challenge of climate change](https://www.esrb.europa.eu/pub/pdf/reports/esrb.ecb.climate_report202207~622b791878.en.pdf), by the ECB/ESRB Project Team on climate risk monitoring. European Central Bank and European Systemic Risk Board.
 
 - Gourdel and Monasterolo (2022), [Climate physical risk, transition spillovers and fiscal stability: an application to Barbados](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/), technical paper for the Task Force on Climate, Development and the IMF
 
@@ -28,5 +29,7 @@ search: false
     + Media coverage: [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds), [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)
 
 ### Other publications
+
+- Task Force on Climate, Development and the IMF. (2023). (R. R. Bhandary & M. Uy, Eds.) [*The International Monetary Fund, Climate Change and Development: A Preliminary Assessment*](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
 
 - Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1
