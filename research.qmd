@@ -30,6 +30,8 @@ search: false
 
 ### Other publications
 
-- Task Force on Climate, Development and the IMF. (2023). (R. R. Bhandary & M. Uy, Eds.) [*The International Monetary Fund, Climate Change and Development: A Preliminary Assessment*](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
+-   Gourdel (2023), __Fake it till you green it: climate risk, commitments and regulation for non-banks__, in _Climate Policy and Green Finance (Quarterly Update)_ 4, Peking University.
 
-- Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1
+-   Task Force on Climate, Development and the IMF. (2023). (R. R. Bhandary & M. Uy, Eds.) [*The International Monetary Fund, Climate Change and Development: A Preliminary Assessment*](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
+
+-   Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1

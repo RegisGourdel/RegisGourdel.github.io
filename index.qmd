@@ -30,7 +30,7 @@ about:
 
 ## About
 
-I am a researcher in climate finance and PhD candidate at the Institute for Ecological Economics of WU Vienna, as well as an incoming research fellow at Ca' Foscari University of Venice.
+I am a researcher in climate finance and PhD candidate at the Institute for Ecological Economics of WU Vienna, as well as a research fellow at Ca' Foscari University of Venice.
 I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
 
 ### Education
@@ -41,4 +41,4 @@ I apply methods from complexity economics and post-Keynesian economics to better
 
 ### Contact
 
-regis.gourdel [at] wu.ac.at
+regis.gourdel [at] unive.it
