@@ -3,22 +3,22 @@ title: "Research"
 search: false
 ---
 
-### Journal publications
+## Journal publications
 
-- Gourdel and Sydow (2023), [__Non-banks contagion and the uneven mitigation of climate risk__](https://doi.org/10.1016/j.irfa.2023.102739), in _International Review of Financial Analysis_
+- Gourdel and Sydow (2023), [Non-banks contagion and the uneven mitigation of climate risk](https://doi.org/10.1016/j.irfa.2023.102739), in _International Review of Financial Analysis_
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
     + Summary box *Dual risk in investment fund climate stress testing* in [The macroprudential challenge of climate change](https://www.esrb.europa.eu/pub/pdf/reports/esrb.ecb.climate_report202207~622b791878.en.pdf), by the ECB/ESRB Project Team on climate risk monitoring. European Central Bank and European Systemic Risk Board.
 
-- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2023), __The double materiality of climate physical and transition risks in the euro area__, Journal of Financial Stability. Forthcoming
+- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2023), __The double materiality of climate physical and transition risks in the euro area__, in _Journal of Financial Stability_. Forthcoming
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
     + [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
 
-- Sydow et al. (2023), __Shock amplification in an interconnected financial system of banks and investment funds__, _Journal of Financial Stability_. Forthcoming
+- Sydow et al. (2023), __Shock amplification in an interconnected financial system of banks and investment funds__, in _Journal of Financial Stability_. Forthcoming
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
 
-- Monasterolo et al. (2022), [__Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects__](https://link.springer.com/article/10.1007/s43253-021-00062-3), _Review of Evolutionary Political Economy_ 3 (1), 31-71
+- Monasterolo et al. (2022), [Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects](https://link.springer.com/article/10.1007/s43253-021-00062-3), in _Review of Evolutionary Political Economy_ 3 (1), 31-71
 
-### Working papers
+## Working papers
 
 - Gourdel and Monasterolo (2022), [Climate physical risk, transition spillovers and fiscal stability: an application to Barbados](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/), technical paper for the Task Force on Climate, Development and the IMF
 
@@ -27,7 +27,9 @@ search: false
 - Gourdel, Maqui and Sydow (2019), [Investment funds under stress](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2323~e3e995fe5c.en.pdf), ECB working paper No. 2323
     + Media coverage: [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds), [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)
 
-### Other publications
+## Other publications
+
+-   Bhandary et al. (2023), [Addressing Cross-border Spillover Risks of Climate Transition Policies: The Role of the G20 and IMF](https://t20ind.org/research/addressing-cross-border-spillover-risks-of-climate-transition-policies/), T20 Policy Brief
 
 -   Gourdel (2023), [Fake it till you green it: climate risk, commitments and regulation for non-banks](https://mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm), in _Climate Policy and Green Finance (Quarterly Update)_ 4, Peking University.
 
