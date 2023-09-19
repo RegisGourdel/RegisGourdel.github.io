@@ -1,0 +1,259 @@
+
+---
+title: "Break announcement"
+subtitle: "test tournament"
+format:
+    revealjs:
+        footer: "test tournament -- Break announcement"
+        incremental: true
+---
+    
+## Safety slide {.center}
+
+# Judge break {.center}
+## Judge break (1/3)
+:::: {.columns}
+::: {.column width="50%"}
+
+- Judge name 1
+- Judge name 10
+- Judge name 11
+- Judge name 12
+- Judge name 13
+
+:::
+::: {.column width="50%"}
+
+- Judge name 14
+- Judge name 15
+- Judge name 16
+- Judge name 17
+- Judge name 18
+
+:::
+::::
+
+## Judge break (2/3)
+:::: {.columns}
+::: {.column width="50%"}
+
+- Judge name 19
+- Judge name 2
+- Judge name 20
+- Judge name 21
+- Judge name 22
+
+:::
+::: {.column width="50%"}
+
+- Judge name 23
+- Judge name 24
+- Judge name 3
+- Judge name 4
+- Judge name 5
+
+:::
+::::
+
+## Judge break (3/3)
+:::: {.columns}
+::: {.column width="50%"}
+
+- Judge name 6
+- Judge name 7
+- Judge name 8
+- Judge name 9
+
+:::
+::::
+
+
+## Safety slide  {.center}
+
+# Open break
+
+## Breaking 1st {.center}
+
+### __insert cool team name__
+
+on 15 team points 
+
+and 826 speaker points 
+
+
+## Breaking 2nd {.center}
+
+### __Two blondes trading crabs__
+
+on 12 team points 
+
+and 816 speaker points 
+
+
+## Breaking 3rd {.center}
+
+### __If need Barry = Barry__
+
+on 12 team points 
+
+and 814 speaker points 
+
+
+## Breaking 4th {.center}
+
+### __Téam näme with diacritics__
+
+on 12 team points 
+
+and 806 speaker points 
+
+
+## Breaking 5th {.center}
+
+### __Grεεκ Teαm__
+
+on 12 team points 
+
+and 799 speaker points 
+
+
+## Breaking 6th {.center}
+
+### __uninspired team name__
+
+on 12 team points 
+
+and 799 speaker points 
+
+
+## Breaking 7th {.center}
+
+### __Test ČmrLJ__
+
+on 11 team points 
+
+and 805 speaker points 
+
+
+## Breaking 8th {.center}
+
+### __¿Equipa de España?__
+
+on 11 team points 
+
+and 804 speaker points 
+
+
+## Breaking 9th {.center}
+
+### __ДяФӘ__
+
+on 11 team points 
+
+and 796 speaker points 
+
+
+## Breaking 10th {.center}
+
+### __כסעצ__
+
+on 11 team points 
+
+and 791 speaker points 
+
+
+## Breaking 11th {.center}
+
+### __צ㐲㐳㑙__
+
+on 11 team points 
+
+and 772 speaker points 
+
+
+## Breaking 12th {.center}
+
+### __youtube.com/@structural.ad__
+
+on 10 team points 
+
+and 808 speaker points 
+
+
+## Breaking 13th {.center}
+
+### __不句__
+
+on 10 team points 
+
+and 808 speaker points 
+
+
+## Breaking 14th {.center}
+
+### __LSE A__
+
+on 10 team points 
+
+and 795 speaker points 
+
+
+## Breaking 15th {.center}
+
+### __DKW B__
+
+on 10 team points 
+
+and 795 speaker points 
+
+
+## Breaking 16th {.center}
+
+### __More examples of diacritics: Ščić's__
+
+on 10 team points 
+
+and 791 speaker points 
+
+
+
+## Safety slide  {.center}
+
+# Novice break
+
+## Breaking 1st {.center}
+
+### __Team name 1__
+
+on 9 team points 
+
+and 761 speaker points 
+
+
+## Breaking 2nd {.center}
+
+### __Team name 2__
+
+on 8 team points 
+
+and 769 speaker points 
+
+
+## Breaking 3rd {.center}
+
+### __Team name 3__
+
+on 8 team points 
+
+and 758 speaker points 
+
+
+## Breaking 4th {.center}
+
+### __Team name 4__
+
+on 7 team points 
+
+and 764 speaker points 
+
+

@@ -8,7 +8,7 @@ website:
   search: false
   twitter-card: true
   open-graph: true
-  image: graphics/favicon.svg
+  image: graphics/favicon2.svg
   favicon: graphics/favicon2.svg
   navbar:
     left:
