@@ -1,0 +1,30 @@
+---
+title: "EIRIN model results"
+fig-cap-location: margin
+toc: false
+execute:
+    echo: false
+---
+
+# Outcome using Shiny
+
+:::{.column-page-inset}
+```{=html}
+<iframe
+	src="https://regisg-eirin.hf.space"
+	frameborder="0"
+	width="100%"
+	height="800px"
+></iframe>
+```
+:::
+
+# Outcome using Tableau
+
+:::{.column-page-inset}
+```{=html}
+<iframe id="example2" src="https://public.tableau.com/shared/WFHNSJKP5?:showVizHome=no&:embed=true"
+style="border: none; width: 100%; height: 720px" frameborder="0">
+</iframe>
+```
+:::
