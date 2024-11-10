@@ -5,18 +5,18 @@ search: false
 
 ## Journal publications
 
-- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2024), __The double materiality of climate physical and transition risks in the euro area__, in _Journal of Financial Stability_. DOI: [10.1016/j.jfs.2024.101233](https://doi.org/10.1016/j.jfs.2024.101233)
+- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2024), [The double materiality of climate physical and transition risks in the euro area](https://doi.org/10.1016/j.jfs.2024.101233), in _Journal of Financial Stability_. DOI: 10.1016/j.jfs.2024.101233
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
     + [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
 
-- Sydow et al. (2024), __Shock amplification in an interconnected financial system of banks and investment funds__, in _Journal of Financial Stability_. DOI: [10.1016/j.jfs.2024.101234](https://doi.org/10.1016/j.jfs.2024.101234)
+- Sydow et al. (2024), [Shock amplification in an interconnected financial system of banks and investment funds](https://doi.org/10.1016/j.jfs.2024.101234), in _Journal of Financial Stability_. DOI: 10.1016/j.jfs.2024.101234
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
 
-- Gourdel and Sydow (2023), __Non-banks contagion and the uneven mitigation of climate risk__, in _International Review of Financial Analysis_. DOI: [10.1016/j.irfa.2023.102739](https://doi.org/10.1016/j.irfa.2023.102739)
+- Gourdel and Sydow (2023), [Non-banks contagion and the uneven mitigation of climate risk](https://doi.org/10.1016/j.irfa.2023.102739), in _International Review of Financial Analysis_. DOI: [10.1016/j.irfa.2023.102739
     + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
     + Summary box *Dual risk in investment fund climate stress testing* in [The macroprudential challenge of climate change](https://www.esrb.europa.eu/pub/pdf/reports/esrb.ecb.climate_report202207~622b791878.en.pdf), by the ECB/ESRB Project Team on climate risk monitoring. European Central Bank and European Systemic Risk Board.
 
-- Monasterolo et al. (2022), __Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects__, in _Review of Evolutionary Political Economy_ 3 (1), 31-71. DOI: [10.1007/s43253-021-00062-3](https://doi.org/10.1007/s43253-021-00062-3)
+- Monasterolo et al. (2022), [Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects](https://doi.org/10.1007/s43253-021-00062-3), in _Review of Evolutionary Political Economy_ 3 (1), 31-71. DOI: 10.1007/s43253-021-00062-3
 
 ## Working papers
 
@@ -39,4 +39,11 @@ search: false
 
 ## Reviewing activity
 
-I have reviewed for the following journals: Journal of Globalization and Development, Journal of Climate Finance, Applied Economics Letters, Climate Policy, Prosperitas.
+I have reviewed for the following journals:
+
+-   International Review of Financial Analysis
+-   Journal of Globalization and Development
+-   Journal of Climate Finance
+-   Applied Economics Letters
+-   Climate Policy
+-   Prosperitas
