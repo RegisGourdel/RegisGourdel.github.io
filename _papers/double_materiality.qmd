@@ -1,0 +1,22 @@
+### The double materiality of climate physical and transition risks in the euro area - _Journal of Financial Stability_
+
+> Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2024), DOI: [10.1016/j.jfs.2024.101233](https://doi.org/10.1016/j.jfs.2024.101233)
+
++ [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
++ [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
+
+###### Abstract
+We analyse the double materiality of climate physical and transition risks in the euro area economy and banking sector.
+First, by tailoring the EIRIN Stock-Flow Consistent behavioural model, we provide a dynamic balance sheet assessment of the Network for Greening the Financial System (NGFS) scenarios.
+We find that an orderly transition achieves early co-benefits by reducing CO2 emissions (12% less in 2040 than in 2020) while supporting growth in economic output.
+In contrast, a disorderly transition worsens the economic performance and financial stability of the euro area.
+Further, in a disorderly transition with higher physical risks, real GDP decreases by 12.5% in 2050 relative to an orderly transition.
+Second, we analyse how firms’ expectations about climate policy credibility (climate sentiments) affect investment decisions in high or low-carbon goods.
+Firms that trust an orderly policy introduction do anticipate the carbon tax and switch earlier to low-carbon investments.
+This, in turn, accelerates economic decarbonization and decreases the risk of carbon-stranded assets for investors.
+Our results highlight the crucial role of early and credible climate policies to signal investment decisions in the low-carbon transition.
+
+###### Presentations at conferences
+
+- 33rd annual EAEPE conference - 2021
+- 14th ESEE Conference - Pisa, 2022

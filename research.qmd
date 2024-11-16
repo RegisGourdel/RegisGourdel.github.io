@@ -1,31 +1,49 @@
 ---
 title: "Research"
 search: false
+callout-appearance: simple
+callout-icon: false
 ---
+
+## Working papers and work in progress
+
+::: {.callout-note collapse="true"}
+{{< include _papers/credit_sentiments.qmd >}}
+:::
+
+::: {.callout-note collapse="true"}
+{{< include _papers/bayesian_networks.qmd >}}
+:::
+
+::: {.callout-note collapse="true"}
+{{< include _papers/barbados.qmd >}}
+:::
+
+::: {.callout-note collapse="true"}
+{{< include _papers/indonesia.qmd >}}
+:::
+
+::: {.callout-note collapse="true"}
+{{< include _papers/ifus.qmd >}}
+:::
 
 ## Journal publications
 
-- Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi (2024), [The double materiality of climate physical and transition risks in the euro area](https://doi.org/10.1016/j.jfs.2024.101233), in _Journal of Financial Stability_. DOI: 10.1016/j.jfs.2024.101233
-    + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
-    + [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
+::: {.callout-tip collapse="true"}
+{{< include _papers/double_materiality.qmd >}}
+:::
 
-- Sydow et al. (2024), [Shock amplification in an interconnected financial system of banks and investment funds](https://doi.org/10.1016/j.jfs.2024.101234), in _Journal of Financial Stability_. DOI: 10.1016/j.jfs.2024.101234
-    + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf), ECB working paper No. 2581
+::: {.callout-tip collapse="true"}
+{{< include _papers/shock_amplification.qmd >}}
+:::
 
-- Gourdel and Sydow (2023), [Non-banks contagion and the uneven mitigation of climate risk](https://doi.org/10.1016/j.irfa.2023.102739), in _International Review of Financial Analysis_. DOI: [10.1016/j.irfa.2023.102739
-    + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
-    + Summary box *Dual risk in investment fund climate stress testing* in [The macroprudential challenge of climate change](https://www.esrb.europa.eu/pub/pdf/reports/esrb.ecb.climate_report202207~622b791878.en.pdf), by the ECB/ESRB Project Team on climate risk monitoring. European Central Bank and European Systemic Risk Board.
+::: {.callout-tip collapse="true"}
+{{< include _papers/nb_contagion.qmd >}}
+:::
 
-- Monasterolo et al. (2022), [Derisking the low-carbon transition: investors’ reaction to climate policies, decarbonization and distributive effects](https://doi.org/10.1007/s43253-021-00062-3), in _Review of Evolutionary Political Economy_ 3 (1), 31-71. DOI: 10.1007/s43253-021-00062-3
-
-## Working papers
-
-- Gourdel and Monasterolo (2022), [Climate physical risk, transition spillovers and fiscal stability: an application to Barbados](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/), technical paper for the Task Force on Climate, Development and the IMF
-
-- Gourdel, Monasterolo and Gallagher (2022), [Climate transition spillovers and sovereign risk: evidence from Indonesia](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/), technical paper for the Task Force on Climate, Development and the IMF
-
-- Gourdel, Maqui and Sydow (2019), [Investment funds under stress](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2323~e3e995fe5c.en.pdf), ECB working paper No. 2323
-    + Media coverage: [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds), [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)
+::: {.callout-tip collapse="true"}
+{{< include _papers/derisking.qmd >}}
+:::
 
 ## Other publications
 
@@ -36,14 +54,3 @@ search: false
 -   Task Force on Climate, Development and the IMF. (2023). (R. R. Bhandary & M. Uy, Eds.) [*The International Monetary Fund, Climate Change and Development: A Preliminary Assessment*](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
 
 -   Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1
-
-## Reviewing activity
-
-I have reviewed for the following journals:
-
--   International Review of Financial Analysis
--   Journal of Globalization and Development
--   Journal of Climate Finance
--   Applied Economics Letters
--   Climate Policy
--   Prosperitas

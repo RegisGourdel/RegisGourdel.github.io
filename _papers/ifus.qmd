@@ -1,0 +1,21 @@
+### Investment funds under stress
+
+> Gourdel, Maqui and Sydow (2019), ECB working paper No. 2323, DOI: [10.2866/990022](https://doi.org/10.2866/990022)
+
+###### Abstract
+This paper presents a framework for stress testing investment funds, based on a broad worldwide sample of primary open-end funds.
+First, we employ a Bayesian technique to project the impact of macro-financial scenarios on country-level portfolio flows worldwide that are constructed from fund-level asset holdings.
+Second, from these projected country-level flows, we model the scenarios’ repercussions on individual funds along a three year horizon.
+The model is applied to exogenous shocks from the COVID-19 crisis and its projections, as well as to a EU-wide stress test scenario resembling the global financial crisis (GFC).
+Our findings indicate that the impact of an adverse macro-financial scenario leads to median drops in assets under management (AUM) of 24% and 5%, for EA12-domiciled equity and bond funds respectively, within the first quarter of the projection horizon.
+Moreover, we use historical information on fund liquidations to estimate a threshold for a drop in AUM that signals a high likelihood of a forthcoming fund liquidation, which can be useful for the implementation of prudential policy tools in the investment fund sector, such as redemption gates.
+Our empirical exercise results on a ratio of liquidations of 5.8% for equity funds (4.6% in terms of liquidated assets), compared to bond funds where the ratio of fund liquidations is limited to 0.5% (0.1% in terms of liquidated assets) under an adverse scenario.
+
+###### Presentations at conferences
+
+- Paris Financial Management Conference - 2019
+
+###### Media coverage
+
+- [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds)
+- [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)

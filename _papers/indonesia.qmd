@@ -1,0 +1,19 @@
+### Climate transition spillovers and sovereign risk: evidence from Indonesia
+
+> Gourdel, Monasterolo and Gallagher (2022), [technical paper for the Task Force on Climate, Development and the IMF](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/)
+
+###### Abstract
+We analyse the impacts of climate transition spillover risk on fiscal sustainability and sovereign  risk in Indonesia.
+Spillover risk emerges from the introduction of energy decarbonization policies by Indonesia's main trading partners, such as China.
+Spillover risk is modelled as a demand  shock for Indonesia's fossil fuels that affects its export to China, building on the Network for Greening the Financial System's scenarios.
+By tailoring the EIRIN Stock-Flow Consistent model, we quantify the impact of spillover risk on the Indonesian economy, including on the fiscal and financial dimensions.
+We find that spillover risk weakens the Indonesian balance of payment, leading to indirect and cascading effects on public finance and public debt, which increases by up to 12 percent of GDP by 2050.
+Thus, as potential trade-offs between energy decarbonization and sovereign financial stability could emerge, along with the materialization of carbon-stranded assets.
+Our results highlight the importance to include spillover risks in the climate financial risk monitoring and assessment of national and international supervisory authorities and programs (e.g. the Debt Sustainability Assessments and Financial Stability Assessment Programmes of the International Monetary Fund) in order to design effective climate policies.
+
+###### Presentations at conferences
+
+- 34th annual EAEPE conference - Naples, 2022
+- SEEDS 2023 workshop - Ferrara
+- 9th International Symposium on Environment and Energy Finance Issues (ISEFI-2023) – Paris
+- PIK "Cross-border climate change impacts and systemic risks in Europe and beyond" - Potsdam, 2023

@@ -1,0 +1,26 @@
+---
+title: "Discussions and reviews"
+search: false
+callout-appearance: simple
+callout-icon: false
+---
+
+## Research discussions
+
+-   Discussion of Shi, Broussard and Booth “Modeling Flash Crash Behavior in a Stock Market using Multivariate Hawkes Processes” at the Paris Financial Management Conference (2019).
+-   Discussion of Bruno and Lombini “Climate Transition Risk: Evidence from Syndicated Loans” at the Sustainable and Socially Responsible Finance Conference
+-   Brownbag seminar discussion of Bressan et al. “Climate risk, catastrophe bonds and financial instability” (May 2023).
+-   Discussion of “Do Firm Credit Constraints Impair Climate Policy?” by Mengjie Shi at the 2nd European Sustainable Finance PhD Workshop (University of Augsburg, 2024).
+
+## Reviewing activity
+
+I have reviewed for the following journals:
+
+-   International Review of Financial Analysis
+-   Journal of Globalization and Development
+-   Journal of Climate Finance
+-   Applied Economics Letters
+-   Economic Modelling
+-   Financial Innovation
+-   Climate Policy
+-   Prosperitas

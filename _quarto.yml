@@ -16,6 +16,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: discussion.qmd
+        text: Discussions and reviews
 
 format:
   html:

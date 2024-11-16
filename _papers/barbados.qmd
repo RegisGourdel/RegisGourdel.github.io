@@ -1,0 +1,22 @@
+### Climate physical risk, transition spillovers and fiscal stability: an application to Barbados
+
+> Gourdel and Monasterolo (2022), [technical paper for the Task Force on Climate, Development and the IMF](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/)
+
+###### Abstract
+Barbados is a country highly exposed to climate physical risks and to transition risks, where the latter could emerge as a result of a domestic disorderly transition, and from the introduction of climate policies by trading partners.
+Nevertheless, we still know little about the implications of climate scenarios on sovereign fiscal and financial stability.
+We contribute to filling this gap by studying the macroeconomic and public finance impacts of climate risks.
+It includes transition spillover risk, driven by the introduction of climate policies globally, which decrease international tourist arrivals to curb CO~2~ emissions from flights, coherently with transition scenarios for aviation.
+It also accounts for chronic and acute physical climate risks, with the latter given by a country-specific model for tropical cyclones, calibrated on past meteorological data from the Caribbean region.
+To conduct our analysis, we tailor the EIRIN Stock-Flow Consistent behavioral model, and we calibrate it to the Barbadian economy.
+First, we find a potentially significant reduction of the Barbadian GDP due to transition spillover risk: up to 37.6% less in 2050, as a deviation from a business-as-usual path of touristic inflows.
+This further harms the debt-to-GDP ratio and debt sustainability.
+Second, implementing domestic climate policies may decrease GHG emissions by up to 75\%.
+Importantly, the economic costs of decarbonization are smaller than the costs of unabated climate change.
+The results suggest that mitigating climate risks would benefit from economic diversification and from tailored financial instruments.
+
+###### Presentations at conferences
+
+- 5th JRC Summer School on Sustainable Finance – Ispra, 2023
+- CREDIT 2023 Conference, “Social, Sovereign and Geopolitical Risks” - Venice
+- EAEPE 2023 Annual Conference
