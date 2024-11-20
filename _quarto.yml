@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - resources/CV.pdf
 
 website:
   title: "Régis Gourdel"
@@ -18,6 +20,8 @@ website:
         text: Research
       - href: discussion.qmd
         text: Discussions and reviews
+      - href: resources/CV.pdf
+        text: CV
 
 format:
   html:
