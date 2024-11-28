@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - resources/CV.pdf
+    - resources/jmp.pdf
 
 website:
   title: "Régis Gourdel"
