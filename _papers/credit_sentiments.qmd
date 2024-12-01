@@ -2,6 +2,8 @@
 
 > Gourdel (2024)
 
+[Link to the paper](resources/jmp.pdf)
+
 ###### Abstract
 The role of banks in supporting the low-carbon transition has proved controversial as they have priced climate transition risk but maintained investment in polluting industries.
 This paper provides first a theoretical benchmark for the carbon premium, based on a formalization of the concept of climate sentiments, the policy-dependent present value of firms' capital, and the Merton model.
