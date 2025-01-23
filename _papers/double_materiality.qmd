@@ -20,3 +20,19 @@ Our results highlight the crucial role of early and credible climate policies to
 
 - 33rd annual EAEPE conference - 2021
 - 14th ESEE Conference - Pisa, 2022
+
+###### Suggested bibtex citation
+
+```bibtex
+@article{gourdel2024double,
+    title = {The double materiality of climate physical and transition risks in the euro area},
+    author = {Gourdel, Régis and Monasterolo, Irene and Dunz, Nepomuk
+        and Mazzocchetti, Andrea and Parisi, Laura},
+    journal = {Journal of Financial Stability},
+    volume = 71,
+    pages = {101233},
+    year = 2024,
+    publisher = {Elsevier},
+    doi = {10.1016/j.jfs.2024.101233}
+}
+```

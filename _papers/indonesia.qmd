@@ -17,3 +17,16 @@ Our results highlight the importance to include spillover risks in the climate f
 - SEEDS 2023 workshop - Ferrara
 - 9th International Symposium on Environment and Energy Finance Issues (ISEFI-2023) – Paris
 - PIK "Cross-border climate change impacts and systemic risks in Europe and beyond" - Potsdam, 2023
+
+###### Suggested bibtex citation
+
+```bibtex
+@techreport{gourdel2022indonesia,
+    author = {Gourdel, Régis and Monasterolo, Irene and Gallagher, Kevin},
+    institution = {Task Force on Climate, Development and the IMF},
+    title = {Climate Transition Spillovers and Sovereign Risk: Evidence from Indonesia},
+    type = {Working Paper},
+    year = 2022,
+    url = {https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/}
+}
+```

@@ -20,3 +20,16 @@ The results suggest that mitigating climate risks would benefit from economic di
 - 5th JRC Summer School on Sustainable Finance – Ispra, 2023
 - CREDIT 2023 Conference, “Social, Sovereign and Geopolitical Risks” - Venice
 - EAEPE 2023 Annual Conference
+
+###### Suggested bibtex citation
+
+```bibtex
+@techreport{gourdel2022barbados,
+	author = {Gourdel, Régis and Monasterolo, Irene},
+	institution = {Task Force on Climate, Development and the IMF},
+	title = {Climate Physical Risk, Transition Spillovers and Fiscal Stability: an application to Barbados},
+	type = {Working Paper},
+	year = 2022,
+	url = {https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/}
+}
+```

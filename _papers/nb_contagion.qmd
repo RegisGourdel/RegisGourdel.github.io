@@ -19,3 +19,18 @@ Improving transparency and setting relevant industry standards in this context w
 
 - Sustainable Macro conference “Steering Financial Markets in the Sustainable Transition”
 - Sustainable and Socially Responsible Finance Conference - Forlì, 2022
+
+###### Suggested bibtex citation
+
+```bibtex
+@article{gourdel2023nonbanks,
+    title = {Non-banks contagion and the uneven mitigation of climate risk},
+    journal = {International Review of Financial Analysis},
+    volume = 89,
+    pages = 102739,
+    year = 2023,
+    issn = {1057-5219},
+    doi = {10.1016/j.irfa.2023.102739},
+    author = {Gourdel, Régis and Sydow, Matthias},
+}
+```
