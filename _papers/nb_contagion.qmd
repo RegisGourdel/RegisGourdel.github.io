@@ -1,12 +1,12 @@
-### Non-banks contagion and the uneven mitigation of climate risk - _International Review of Financial Analysis_
+### Non-banks contagion and the uneven mitigation of climate risk - _International Review of Financial Analysis_ (2023)
 
-> Gourdel and Sydow (2023), DOI: [10.1016/j.irfa.2023.102739](https://doi.org/10.1016/j.irfa.2023.102739)
+> Gourdel and Sydow, DOI: [10.1016/j.irfa.2023.102739](https://doi.org/10.1016/j.irfa.2023.102739)
 
 + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2757~80ba1bf7dd.en.pdf), ECB working paper No. 2757
 + Summary box *Dual risk in investment fund climate stress testing* in [The macroprudential challenge of climate change](https://www.esrb.europa.eu/pub/pdf/reports/esrb.ecb.climate_report202207~622b791878.en.pdf), by the ECB/ESRB Project Team on climate risk monitoring. European Central Bank and European Systemic Risk Board.
 + 🥇 Recipient of the best paper award at the Sustainable and Socially Responsible Finance Conference
 
-###### Abstract
+###### Abstract:
 This paper develops a framework for the short-term modelling of market risk and shock propagation in the investment funds sector, including bi-layer contagion effects through funds’ cross-holdings and overlapping exposures.
 Our work tackles chiefly climate risk, with a first-of-its-kind dual view of transition and physical climate risk exposures at the fund level.
 So far, while fund managers communicate more aggressively about their awareness of climate risk, it is still poorly assessed.
@@ -15,12 +15,12 @@ A stress test based on granular short-term transition shocks suggests that the d
 On the other hand, there is room for fund managers and regulators to consider physical risk better, and mitigate the second-round effects it induces, as these are less efficiently absorbed by investment funds.
 Improving transparency and setting relevant industry standards in this context would help mitigate short-term financial stability risks.
 
-###### Presentations at conferences
+###### Presentations at conferences:
 
 - Sustainable Macro conference “Steering Financial Markets in the Sustainable Transition”
 - Sustainable and Socially Responsible Finance Conference - Forlì, 2022
 
-###### Suggested bibtex citation
+###### Suggested bibtex citation:
 
 ```bibtex
 @article{gourdel2023nonbanks,

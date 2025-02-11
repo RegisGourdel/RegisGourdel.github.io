@@ -1,8 +1,11 @@
-### Climate transition spillovers and sovereign risk: evidence from Indonesia
+### Climate transition spillovers and sovereign risk: evidence from Indonesia - _Energy Economics_ (2025)
 
-> Gourdel, Monasterolo and Gallagher (2022), [technical paper for the Task Force on Climate, Development and the IMF](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/)
+> Gourdel, Monasterolo and Gallagher
 
-###### Abstract
+- Research conducted for the Task Force on Climate, Development and the IMF
+- [Working paper version](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/)
+
+###### Abstract:
 We analyse the impacts of climate transition spillover risk on fiscal sustainability and sovereign  risk in Indonesia.
 Spillover risk emerges from the introduction of energy decarbonization policies by Indonesia's main trading partners, such as China.
 Spillover risk is modelled as a demand  shock for Indonesia's fossil fuels that affects its export to China, building on the Network for Greening the Financial System's scenarios.
@@ -11,22 +14,23 @@ We find that spillover risk weakens the Indonesian balance of payment, leading t
 Thus, as potential trade-offs between energy decarbonization and sovereign financial stability could emerge, along with the materialization of carbon-stranded assets.
 Our results highlight the importance to include spillover risks in the climate financial risk monitoring and assessment of national and international supervisory authorities and programs (e.g. the Debt Sustainability Assessments and Financial Stability Assessment Programmes of the International Monetary Fund) in order to design effective climate policies.
 
-###### Presentations at conferences
+###### Presentations at conferences:
 
 - 34th annual EAEPE conference - Naples, 2022
 - SEEDS 2023 workshop - Ferrara
 - 9th International Symposium on Environment and Energy Finance Issues (ISEFI-2023) – Paris
 - PIK "Cross-border climate change impacts and systemic risks in Europe and beyond" - Potsdam, 2023
 
-###### Suggested bibtex citation
+###### Suggested bibtex citation:
 
 ```bibtex
-@techreport{gourdel2022indonesia,
+@article{gourdel2025indonesia,
     author = {Gourdel, Régis and Monasterolo, Irene and Gallagher, Kevin},
-    institution = {Task Force on Climate, Development and the IMF},
-    title = {Climate Transition Spillovers and Sovereign Risk: Evidence from Indonesia},
-    type = {Working Paper},
-    year = 2022,
-    url = {https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/}
+    title = {Climate transition spillovers and sovereign risk: Evidence from Indonesia},
+    journal = {Energy Economics},
+    pages = 108211,
+    issn = {0140-9883},
+    year = 2025,
+    doi = {j.eneco.2025.108211}
 }
 ```

@@ -20,14 +20,14 @@ callout-icon: false
 :::
 
 ::: {.callout-note collapse="true"}
-{{< include _papers/indonesia.qmd >}}
-:::
-
-::: {.callout-note collapse="true"}
 {{< include _papers/ifus.qmd >}}
 :::
 
 ## Journal publications
+
+::: {.callout-tip collapse="true"}
+{{< include _papers/indonesia.qmd >}}
+:::
 
 ::: {.callout-tip collapse="true"}
 {{< include _papers/double_materiality.qmd >}}

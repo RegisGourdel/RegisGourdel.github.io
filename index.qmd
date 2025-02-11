@@ -9,18 +9,18 @@ about:
     image: graphics/profile.jpg
     image-width: 14em
     links:
-        - icon: mastodon
-          text: Mastodon
-          href: https://econtwitter.net/@RegisGourdel
-        - icon: linkedin
-          text: LinkedIn
-          href: https://www.linkedin.com/in/regisgourdel/
         - icon: bookmark-fill
           text: Orcid
           href: https://orcid.org/0000-0002-1638-9765
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/regisgourdel/
         - icon: mortarboard-fill
           text: Scholar
           href: https://scholar.google.fr/citations?user=1xZrPK0AAAAJ
+        - icon: mastodon
+          text: Mastodon
+          href: https://econtwitter.net/@RegisGourdel
         - icon: github
           text: Github
           href: https://github.com/RegisGourdel

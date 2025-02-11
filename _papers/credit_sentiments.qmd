@@ -1,10 +1,10 @@
-### Credit and climate sentiments: the decarbonization frontier of risk pricing
+### Credit and climate sentiments: the decarbonization frontier of risk pricing (2024)
 
-> Gourdel (2024)
+> Gourdel
 
-[Link to the paper](resources/jmp.pdf)
+[Link to the paper](https://ssrn.com/abstract=5040367)
 
-###### Abstract
+###### Abstract:
 The role of banks in supporting the low-carbon transition has proved controversial as they have priced climate transition risk but maintained investment in polluting industries.
 This paper provides first a theoretical benchmark for the carbon premium, based on a formalization of the concept of climate sentiments, the policy-dependent present value of firms' capital, and the Merton model.
 I find that the current empirical evidence for carbon premia matches a reasonable calibration of investment dynamics in productive capital, with a limited space for higher premia even when banks strongly expect future climate-mitigation policies.
@@ -12,7 +12,7 @@ Second, I consider discrepancies in climate sentiments between lenders and borro
 I find that variations in the cost of debt due to the carbon premium are generally not enough of a decarbonization incentive alone.
 Macro-prudential measures that complement carbon pricing and policies that limit the lending volume would then be necessary to decarbonize the economy further through the financial system.
 
-###### Presentations at conferences
+###### Presentations at conferences:
 
 -   2nd European Sustainable Finance PhD Workshop - University of Augsburg, 2024
 -   Annual Meeting of the Austrian Economic Association “Transition to a low carbon economy” - BOKU University, Vienna, 2024
@@ -21,7 +21,7 @@ Macro-prudential measures that complement carbon pricing and policies that limit
     + 🥉 Recipient of the third-best paper award
 -   The Second International Conference on the Climate-Macro-Finance Interface: New Environmental Challenges for Monetary, Fiscal, and Macroprudential Policy - Bayes Business School, London
 
-###### Suggested bibtex citation
+###### Suggested bibtex citation:
 
 ```bibtex
 @unpublished{gourdel2024credit,

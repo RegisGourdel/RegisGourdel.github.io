@@ -1,8 +1,8 @@
-### Climate physical risk, transition spillovers and fiscal stability: an application to Barbados
+### Climate physical risk, transition spillovers and fiscal stability: an application to Barbados (2022)
 
-> Gourdel and Monasterolo (2022), [technical paper for the Task Force on Climate, Development and the IMF](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/)
+> Gourdel and Monasterolo, [technical paper for the Task Force on Climate, Development and the IMF](https://www.bu.edu/gdp/2022/10/05/climate-physical-risk-transition-spillovers-and-fiscal-stability-an-application-to-barbados/)
 
-###### Abstract
+###### Abstract:
 Barbados is a country highly exposed to climate physical risks and to transition risks, where the latter could emerge as a result of a domestic disorderly transition, and from the introduction of climate policies by trading partners.
 Nevertheless, we still know little about the implications of climate scenarios on sovereign fiscal and financial stability.
 We contribute to filling this gap by studying the macroeconomic and public finance impacts of climate risks.
@@ -15,13 +15,13 @@ Second, implementing domestic climate policies may decrease GHG emissions by up 
 Importantly, the economic costs of decarbonization are smaller than the costs of unabated climate change.
 The results suggest that mitigating climate risks would benefit from economic diversification and from tailored financial instruments.
 
-###### Presentations at conferences
+###### Presentations at conferences:
 
 - 5th JRC Summer School on Sustainable Finance – Ispra, 2023
 - CREDIT 2023 Conference, “Social, Sovereign and Geopolitical Risks” - Venice
 - EAEPE 2023 Annual Conference
 
-###### Suggested bibtex citation
+###### Suggested bibtex citation:
 
 ```bibtex
 @techreport{gourdel2022barbados,
