@@ -1,0 +1,19 @@
+### Fake it till you green it: climate risk, commitments and regulation for non-banks (2023)
+
+> Gourdel, in _Climate Policy and Green Finance (Quarterly Update)_ 4, Peking University.
+
+- URL: [mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm](https://mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm)
+
+###### Suggested bibtex citation:
+
+```bibtex
+@article{gourdel2023fake,
+    author = {Gourdel, Régis},
+    title = {Fake it till you green it: climate risk, commitments and regulation for non-banks},
+    journal = {Climate Policy and Green Finance (Quarterly Update)},
+    year = 2023,
+    publisher = {Peking University},
+    volume = 4,
+    url = {https://mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm}
+}
+```

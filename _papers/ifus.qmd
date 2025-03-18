@@ -23,10 +23,10 @@ Our empirical exercise results on a ratio of liquidations of 5.8% for equity fun
 ###### Suggested bibtex citation:
 
 ```bibtex
-@article{gourdel2019investment,
+@techreport{gourdel2019investment,
     title = {Investment funds under stress},
     author = {Gourdel, Régis and Maqui, Eduardo and Sydow, Matthias},
-    series = {ECB Working Paper Series},
+    type = {ECB Working Paper},
     institution = {European Central Bank},
     year = 2019,
     number = 2323,

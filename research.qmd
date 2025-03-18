@@ -47,12 +47,22 @@ callout-icon: false
 
 ## Other publications and policy reports
 
--   ESAs and ECB (2024), [Fit-for-55 climate scenario analysis](https://www.eba.europa.eu/sites/default/files/2024-11/08fef16f-7505-4e32-9444-126cca0f69d5/Report%20on%20fit%20for%2055%20climate%20scenario%20analysis.pdf)
+::: {.callout-caution collapse="true"}
+{{< include _papers/fitfor55.qmd >}}
+:::
 
--   Bhandary et al. (2023), [Addressing Cross-border Spillover Risks of Climate Transition Policies: The Role of the G20 and IMF](https://t20ind.org/research/addressing-cross-border-spillover-risks-of-climate-transition-policies/), T20 Policy Brief
+::: {.callout-caution collapse="true"}
+{{< include _papers/g20crossborder.qmd >}}
+:::
 
--   Gourdel (2023), [Fake it till you green it: climate risk, commitments and regulation for non-banks](https://mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm), in _Climate Policy and Green Finance (Quarterly Update)_ 4, Peking University.
+::: {.callout-caution collapse="true"}
+{{< include _papers/fakeit.qmd >}}
+:::
 
--   Task Force on Climate, Development and the IMF. (2023). (R. R. Bhandary & M. Uy, Eds.) [*The International Monetary Fund, Climate Change and Development: A Preliminary Assessment*](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
+::: {.callout-caution collapse="true"}
+{{< include _papers/imfclimatedev.qmd >}}
+:::
 
--   Cera et al. (2020), [The role of bank and non-bank interconnections in amplifying recent financial contagion](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html), in ECB Financial Stability Review Issue 1
+::: {.callout-caution collapse="true"}
+{{< include _papers/fsr_interconnections.qmd >}}
+:::
