@@ -66,3 +66,7 @@ callout-icon: false
 ::: {.callout-caution collapse="true"}
 {{< include _papers/fsr_interconnections.qmd >}}
 :::
+
+::: {.callout-caution collapse="true"}
+{{< include _papers/msc_dissertation.qmd >}}
+:::

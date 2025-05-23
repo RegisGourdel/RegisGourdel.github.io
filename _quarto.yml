@@ -2,7 +2,7 @@ project:
   type: website
   resources:
     - resources/CV.pdf
-    - resources/jmp.pdf
+    - resources/MScDissertation.pdf
 
 website:
   title: "Régis Gourdel"

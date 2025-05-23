@@ -11,4 +11,4 @@ This contributes to addressing the uncertainty issues currently observed and all
 
 ###### Presentations at conferences:
 
-- International Conference on Computational and Financial Econometrics - London, 2022
+- International Conference on Computational and Financial Econometrics --- London, 2022
