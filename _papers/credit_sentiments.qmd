@@ -22,14 +22,16 @@ Macro-prudential measures that complement carbon pricing and policies that limit
 -   The Second International Conference on the Climate-Macro-Finance Interface: New Environmental Challenges for Monetary, Fiscal, and Macroprudential Policy --- Bayes Business School, London, 2025
 -   18th RGS Doctoral Conference in Economics --- TU Dortmund, 2025
 -   ZEW Conference on “Ageing and Sustainable Finance” --- Mannheim, 2025
+-   CINSC INFINITI conference -- Edinburgh, 2025
+-   7th Nordic Annual Environmental and Resource Economics (NAERE) Workshop -- Copenhagen, 2025
 
 ###### Suggested bibtex citation:
 
 ```bibtex
-@unpublished{gourdel2024credit,
+@unpublished{gourdel2025credit,
     author = {Gourdel, Régis},
     title = {Credit and climate sentiments: the decarbonization frontier of risk pricing},
-    year = 2024,
+    year = 2025,
     note = {Available at SSRN 5040367},
     url = {https://ssrn.com/abstract=5040367}
 }

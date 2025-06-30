@@ -28,7 +28,8 @@ about:
 
 ## About
 
-I am a post-doctoral researcher in finance and sustainability at the Geneva Finance Research Institute.
+I am a post-doctoral researcher in finance and sustainability at the Geneva Finance Research Institute, and resident researcher at the Department of Finance of the University of Zurich.
+
 I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
 I have also developed the European Central Bank's ISA model for system-wide stress-testing.
 
@@ -40,4 +41,4 @@ I have also developed the European Central Bank's ISA model for system-wide stre
 
 ### Contact
 
-regis.gourdel [at] protonmail.com
+regis.gourdel [at] unige.ch
