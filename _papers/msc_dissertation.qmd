@@ -6,7 +6,7 @@ Dissertation submitted to the Department of Mathematics of the London School of 
 
 [Link to the document](resources/MScDissertation.pdf)
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @unpublished{gourdel2018quasi,

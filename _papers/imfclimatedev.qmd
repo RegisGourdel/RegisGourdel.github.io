@@ -5,7 +5,7 @@
 - URL: [www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
 
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @report{bhandary2023imf,

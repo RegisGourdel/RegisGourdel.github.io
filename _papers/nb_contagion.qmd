@@ -15,12 +15,7 @@ A stress test based on granular short-term transition shocks suggests that the d
 On the other hand, there is room for fund managers and regulators to consider physical risk better, and mitigate the second-round effects it induces, as these are less efficiently absorbed by investment funds.
 Improving transparency and setting relevant industry standards in this context would help mitigate short-term financial stability risks.
 
-###### Presentations at conferences:
-
-- Sustainable Macro conference “Steering Financial Markets in the Sustainable Transition”
-- Sustainable and Socially Responsible Finance Conference --- Forlì, 2022
-
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @article{gourdel2023nonbanks,
@@ -34,3 +29,8 @@ Improving transparency and setting relevant industry standards in this context w
     author = {Gourdel, Régis and Sydow, Matthias},
 }
 ```
+
+###### Presentations at conferences:
+
+- Sustainable Macro conference “Steering Financial Markets in the Sustainable Transition”
+- Sustainable and Socially Responsible Finance Conference --- Forlì, 2022

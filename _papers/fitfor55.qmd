@@ -4,7 +4,7 @@
 
 - URL: [www.ecb.europa.eu/pub/pdf/other/ecb.report_fit-for-55_stress_test_exercise~7fec18f3a8.en.pdf](https://www.ecb.europa.eu/pub/pdf/other/ecb.report_fit-for-55_stress_test_exercise~7fec18f3a8.en.pdf)
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @report{esas2024fit,

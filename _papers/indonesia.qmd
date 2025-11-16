@@ -14,14 +14,7 @@ We find that spillover risk weakens the Indonesian balance of payment, leading t
 Thus, as potential trade-offs between energy decarbonization and sovereign financial stability could emerge, along with the materialization of carbon-stranded assets.
 Our results highlight the importance to include spillover risks in the climate financial risk monitoring and assessment of national and international supervisory authorities and programs (e.g. the Debt Sustainability Assessments and Financial Stability Assessment Programmes of the International Monetary Fund) in order to design effective climate policies.
 
-###### Presentations at conferences:
-
-- 34th annual EAEPE conference --- Naples, 2022
-- SEEDS 2023 workshop --- Ferrara
-- 9th International Symposium on Environment and Energy Finance Issues (ISEFI-2023) --- Paris
-- PIK "Cross-border climate change impacts and systemic risks in Europe and beyond" --- Potsdam, 2023
-
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @article{gourdel2025indonesia,
@@ -34,3 +27,10 @@ Our results highlight the importance to include spillover risks in the climate f
     doi = {j.eneco.2025.108211}
 }
 ```
+
+###### Presentations at conferences:
+
+- 34th annual EAEPE conference --- Naples, 2022
+- SEEDS 2023 workshop --- Ferrara
+- 9th International Symposium on Environment and Energy Finance Issues (ISEFI-2023) --- Paris
+- PIK "Cross-border climate change impacts and systemic risks in Europe and beyond" --- Potsdam, 2023

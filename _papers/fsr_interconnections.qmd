@@ -4,7 +4,7 @@
 
 - URL: [www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html](https://www.ecb.europa.eu/pub/financial-stability/fsr/focus/2020/html/ecb.fsrbox202005_06~5321e041b0.en.html)
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @incollection{cera2020role,

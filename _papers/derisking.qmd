@@ -14,7 +14,7 @@ Green subsidies that are financed by green sovereign bonds issuance generate pos
 Nevertheless, due to the relative decoupling of the economy, GDP growth impairs emission reduction efforts.
 Finally, investors’ climate risk adjustment helps to smooth this trade-off, contributing to a full decoupling.
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @article{monasterolo2022derisking,

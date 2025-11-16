@@ -11,16 +11,7 @@ Our findings indicate that the impact of an adverse macro-financial scenario lea
 Moreover, we use historical information on fund liquidations to estimate a threshold for a drop in AUM that signals a high likelihood of a forthcoming fund liquidation, which can be useful for the implementation of prudential policy tools in the investment fund sector, such as redemption gates.
 Our empirical exercise results on a ratio of liquidations of 5.8% for equity funds (4.6% in terms of liquidated assets), compared to bond funds where the ratio of fund liquidations is limited to 0.5% (0.1% in terms of liquidated assets) under an adverse scenario.
 
-###### Presentations at conferences:
-
-- Paris Financial Management Conference --- 2019
-
-###### Media coverage:
-
-- [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds)
-- [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)
-
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @techreport{gourdel2019investment,
@@ -33,3 +24,12 @@ Our empirical exercise results on a ratio of liquidations of 5.8% for equity fun
     doi = {10.2866/990022}
 }
 ```
+
+###### Presentations at conferences:
+
+- Paris Financial Management Conference --- 2019
+
+###### Media coverage:
+
+- [Central Banking](https://www.centralbanking.com/investment/4520641/ecb-paper-sets-out-stress-tests-for-investment-funds)
+- [CincoDías](https://cincodias.elpais.com/cincodias/2019/10/31/mercados/1572535929_915598.html)

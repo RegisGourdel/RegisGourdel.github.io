@@ -4,7 +4,7 @@
 
 - URL: [mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm](https://mgflab.nsd.pku.edu.cn/en/InsightsUpdates/MGFInsights/d9c68f10b5384dc297fad221e2a12bff.htm)
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @article{gourdel2023fake,

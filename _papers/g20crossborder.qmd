@@ -4,7 +4,7 @@
 
 - URL: [t20ind.org/research/addressing-cross-border-spillover-risks-of-climate-transition-policies/](https://t20ind.org/research/addressing-cross-border-spillover-risks-of-climate-transition-policies/)
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @techreport{bhandary2023addressing,

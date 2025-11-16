@@ -28,16 +28,16 @@ about:
 
 ## About
 
-I am a post-doctoral researcher in climate finance and sustainability.
+I am a post-doctoral researcher in financial economics and sustainability.
 I apply methods from complexity economics and post-Keynesian economics to better understand the effect of climate risk on the economy and the financial system in particular.
 I have worked on the development of the European Central Bank's ISA model for system-wide stress-testing, as well as the stock-flow consistent EIRIN model.
 
 ### Education
 
-- _PhD in Economics and Social Science_, Vienna University of Economics and Business (WU, Austria), 2020 - 2025
+- _PhD in Economics and Social Science_, Vienna University of Economics and Business (Austria), 2020 - 2025
 - _MSc in Applicable Mathematics_, London School of Economics and Political Science (U.K.), 2017 - 2018
 - _MSc in Engineering_, Télécom Paris (France), 2015 - 2017
 
 ### Contact
 
-regis.gourdel [at] protonmail.com
+regis.gourdel [at] pm.me

@@ -17,6 +17,8 @@ callout-icon: false
 I have reviewed for the following journals:
 
 -   International Review of Financial Analysis
+-   Nature
+-   Energy Economics
 -   Journal of Globalization and Development
 -   Journal of Climate Finance
 -   Applied Economics Letters
@@ -24,6 +26,9 @@ I have reviewed for the following journals:
 -   Economic Modelling
 -   North American Journal of Economics and Finance
 -   Financial Innovation
+-   Journal of Sustainable Finance and Investment
 -   Climate Policy
 -   Environment Systems and Decisions
 -   Prosperitas
+-   Energy Reports
+-   Finance (of the French Finance Association)

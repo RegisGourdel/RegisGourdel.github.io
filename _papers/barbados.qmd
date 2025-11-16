@@ -21,7 +21,7 @@ The results suggest that mitigating climate risks would benefit from economic di
 - CREDIT 2023 Conference, “Social, Sovereign and Geopolitical Risks” --- Venice
 - EAEPE 2023 Annual Conference
 
-###### Suggested bibtex citation:
+###### Bibtex entry:
 
 ```bibtex
 @techreport{gourdel2022barbados,
