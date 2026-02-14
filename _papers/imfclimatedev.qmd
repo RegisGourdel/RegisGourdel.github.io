@@ -1,18 +1,15 @@
 ### The International Monetary Fund, Climate Change and Development: A Preliminary Assessment (2023)
 
-> Task Force on Climate, Development and the IMF (R. R. Bhandary & M. Uy, Eds.)
+###### Full citation:
 
-- URL: [www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/](https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/).
-
+```{python}
+#| echo: false
+#| output: asis
+citation_print("imfclimatedev")
+```
 
 ###### Bibtex entry:
 
 ```bibtex
-@report{bhandary2023imf,
-    author = {{Task Force on Climate, Development and the IMF}},
-    editor = {Bhandary, Rishikesh Ram and Uy, Marilou},
-    title = {The International Monetary Fund, Climate Change and Development: A Preliminary Assessment},
-    url = {https://www.bu.edu/gdp/2023/03/24/the-international-monetary-fund-climate-and-development-a-preliminary-assessment/},
-    year = 2023
-}
+{{< include _papers/imfclimatedev.bib >}}
 ```

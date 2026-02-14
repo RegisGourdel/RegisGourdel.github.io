@@ -1,10 +1,15 @@
 ### Credit and climate sentiments: the decarbonization frontier of risk pricing (2024)
 
-> Gourdel
+###### Full citation:
 
-[Link to the paper](https://ssrn.com/abstract=5040367)
+```{python}
+#| echo: false
+#| output: asis
+citation_print("credit_sentiments")
+```
 
 ###### Abstract:
+
 The role of banks in supporting the low-carbon transition has proved controversial as they have priced climate transition risk but maintained investment in polluting industries.
 This paper provides first a theoretical benchmark for the carbon premium, based on a formalization of the concept of climate sentiments, the policy-dependent present value of firms' capital, and the Merton model.
 I find that the current empirical evidence for carbon premia matches a reasonable calibration of investment dynamics in productive capital, with a limited space for higher premia even when banks strongly expect future climate-mitigation policies.
@@ -15,13 +20,7 @@ Macro-prudential measures that complement carbon pricing and policies that limit
 ###### Bibtex entry:
 
 ```bibtex
-@unpublished{gourdel2025credit,
-    author = {Gourdel, Régis},
-    title = {Credit and climate sentiments: the decarbonization frontier of risk pricing},
-    year = 2025,
-    note = {Available at SSRN 5040367},
-    url = {https://ssrn.com/abstract=5040367}
-}
+{{< include _papers/credit_sentiments.bib >}}
 ```
 
 ###### Presentations at conferences:

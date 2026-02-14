@@ -1,8 +1,15 @@
 ### Investment funds under stress (2019)
 
-> Gourdel, Maqui and Sydow, ECB working paper No. 2323, DOI: [10.2866/990022](https://doi.org/10.2866/990022)
+###### Full citation:
+
+```{python}
+#| echo: false
+#| output: asis
+citation_print("ifus")
+```
 
 ###### Abstract:
+
 This paper presents a framework for stress testing investment funds, based on a broad worldwide sample of primary open-end funds.
 First, we employ a Bayesian technique to project the impact of macro-financial scenarios on country-level portfolio flows worldwide that are constructed from fund-level asset holdings.
 Second, from these projected country-level flows, we model the scenarios’ repercussions on individual funds along a three year horizon.
@@ -14,15 +21,7 @@ Our empirical exercise results on a ratio of liquidations of 5.8% for equity fun
 ###### Bibtex entry:
 
 ```bibtex
-@techreport{gourdel2019investment,
-    title = {Investment funds under stress},
-    author = {Gourdel, Régis and Maqui, Eduardo and Sydow, Matthias},
-    type = {ECB Working Paper},
-    institution = {European Central Bank},
-    year = 2019,
-    number = 2323,
-    doi = {10.2866/990022}
-}
+{{< include _papers/ifus.bib >}}
 ```
 
 ###### Presentations at conferences:

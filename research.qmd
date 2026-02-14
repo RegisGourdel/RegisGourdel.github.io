@@ -1,9 +1,35 @@
 ---
 title: "Research"
 search: false
-callout-appearance: simple
+callout-appearance: default
 callout-icon: false
+bibliography:
+    - _papers/barbados.bib
+    - _papers/credit_sentiments.bib
+    - _papers/derisking.bib
+    - _papers/double_materiality.bib
+    - _papers/fakeit.bib
+    - _papers/fitfor55.bib
+    - _papers/fsr_interconnections.bib
+    - _papers/msc_dissertation.bib
+    - _papers/g20crossborder.bib
+    - _papers/ifus.bib
+    - _papers/imfclimatedev.bib
+    - _papers/indonesia.bib
+    - _papers/shock_amplification.bib
+    - _papers/nb_contagion.bib
 ---
+
+```{python}
+#| echo: false
+import pybtex
+
+def citation_print(paper: str):
+    cit = pybtex.format_from_file(
+        f"_papers/{paper}.bib", style="plain",
+        output_backend="markdown")
+    print(">" + cit[4:])
+```
 
 ## Working papers and work in progress
 

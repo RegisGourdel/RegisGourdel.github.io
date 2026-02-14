@@ -1,17 +1,18 @@
 ### Quasi-Stationary Distributions for Epidemic Modelling (2018)
 
-> Gourdel (2018)
+- Dissertation submitted to the Department of Mathematics of the London School of Economics and Political Science for the degree of Master of Science
+- [Link to the document](resources/MScDissertation.pdf)
 
-Dissertation submitted to the Department of Mathematics of the London School of Economics and Political Science for the degree of Master of Science
+###### Full citation:
 
-[Link to the document](resources/MScDissertation.pdf)
+```{python}
+#| echo: false
+#| output: asis
+citation_print("msc_dissertation")
+```
 
 ###### Bibtex entry:
 
 ```bibtex
-@unpublished{gourdel2018quasi,
-    author = {Gourdel, Régis},
-    title = {Quasi-Stationary Distributions for Epidemic Modelling},
-    year = 2018
-}
+{{< include _papers/msc_dissertation.bib >}}
 ```

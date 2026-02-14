@@ -1,11 +1,17 @@
 ### Climate transition spillovers and sovereign risk: evidence from Indonesia - _Energy Economics_ (2025)
 
-> Gourdel, Monasterolo and Gallagher
-
-- Research conducted for the Task Force on Climate, Development and the IMF
 - [Working paper version](https://www.bu.edu/gdp/2022/03/23/climate-transition-spillovers-and-sovereign-risk-evidence-from-indonesia/)
 
+###### Full citation:
+
+```{python}
+#| echo: false
+#| output: asis
+citation_print("indonesia")
+```
+
 ###### Abstract:
+
 We analyse the impacts of climate transition spillover risk on fiscal sustainability and sovereign  risk in Indonesia.
 Spillover risk emerges from the introduction of energy decarbonization policies by Indonesia's main trading partners, such as China.
 Spillover risk is modelled as a demand  shock for Indonesia's fossil fuels that affects its export to China, building on the Network for Greening the Financial System's scenarios.
@@ -17,15 +23,7 @@ Our results highlight the importance to include spillover risks in the climate f
 ###### Bibtex entry:
 
 ```bibtex
-@article{gourdel2025indonesia,
-    author = {Gourdel, Régis and Monasterolo, Irene and Gallagher, Kevin},
-    title = {Climate transition spillovers and sovereign risk: Evidence from Indonesia},
-    journal = {Energy Economics},
-    pages = 108211,
-    issn = {0140-9883},
-    year = 2025,
-    doi = {j.eneco.2025.108211}
-}
+{{< include _papers/indonesia.bib >}}
 ```
 
 ###### Presentations at conferences:

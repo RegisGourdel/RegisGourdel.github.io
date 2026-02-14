@@ -1,8 +1,7 @@
 ### Bayesian augmentation for financial network: climate stress tests and dynamic portfolios (2024)
 
-> Gourdel
-
 ###### Abstract:
+
 Financial networks with granular portfolio information have become a staple of the academic and regulatory literature, with financial interlinkages recognised for their importance in financial stability. However, in application, network-based methods present inherent flaws that are seldom addressed.
 This includes an unequal data coverage, an insufficient estimation of uncertainty around the results, or unrealistic simulations of alternative and future states of these networks.
 The latter point is especially important for climate changerelated simulations, where the evolution of portfolios is key in assessing the likely impact of future shocks.

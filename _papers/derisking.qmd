@@ -1,8 +1,15 @@
 ### Derisking the low-carbon transition: investors' reaction to climate policies, decarbonization and distributive effects - _Review of Evolutionary Political Economy_ (2022)
 
-> Monasterolo et al., DOI: [10.1007/s43253-021-00062-3]((https://doi.org/10.1007/s43253-021-00062-3))
+###### Full citation:
+
+```{python}
+#| echo: false
+#| output: asis
+citation_print("derisking")
+```
 
 ###### Abstract:
+
 The role of climate finance policies and instruments in scaling up and derisking low-carbon investments has received growing research attention. However, financial actors’ reaction to climate finance initiatives, and their implications on decarbonization of the economy and on inequality, has not been assessed yet.
 Our manuscript contributes to address this knowledge gap by analysing under which conditions government’s climate finance policies and investors’ climate risk adjustment can affect the success of the low-carbon transition and the ability to close the green investment gap.
 We further develop the EIRIN Stock-Flow Consistent behavioural model with a financial market, an energy market and investors’ portfolio choice of financial contracts, for the European Union.
@@ -17,16 +24,5 @@ Finally, investors’ climate risk adjustment helps to smooth this trade-off, co
 ###### Bibtex entry:
 
 ```bibtex
-@article{monasterolo2022derisking,
-    title = {Derisking the low-carbon transition: investors' reaction to climate policies, decarbonization and distributive effects},
-    author = {Monasterolo, Irene and Dunz, Nepomuk
-        and Mazzocchetti, Andrea and Gourdel, Régis},
-    journal = {Review of Evolutionary Political Economy},
-    volume = 3,
-    number = 1,
-    pages = {31--71},
-    year = 2022,
-    publisher = {Springer},
-    doi = {10.1007/s43253-021-00062-3}
-}
+{{< include _papers/derisking.bib >}}
 ```

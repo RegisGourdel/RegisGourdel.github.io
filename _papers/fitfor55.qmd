@@ -1,17 +1,15 @@
 ### Fit-for-55 climate scenario analysis (2024)
 
-> The European Supervisory Authorities and the European Central Bank
+###### Full citation:
 
-- URL: [www.ecb.europa.eu/pub/pdf/other/ecb.report_fit-for-55_stress_test_exercise~7fec18f3a8.en.pdf](https://www.ecb.europa.eu/pub/pdf/other/ecb.report_fit-for-55_stress_test_exercise~7fec18f3a8.en.pdf)
+```{python}
+#| echo: false
+#| output: asis
+citation_print("fitfor55")
+```
 
 ###### Bibtex entry:
 
 ```bibtex
-@report{esas2024fit,
-    shortauthor = {{ESAs and ECB}},
-    author = {{The European Supervisory Authorities and the European Central Bank}},
-    title = {Fit-for-55 climate scenario analysis},
-    year = 2024,
-    url = {https://www.ecb.europa.eu/pub/pdf/other/ecb.report_fit-for-55_stress_test_exercise~7fec18f3a8.en.pdf}
-}
+{{< include _papers/fitfor55.bib >}}
 ```

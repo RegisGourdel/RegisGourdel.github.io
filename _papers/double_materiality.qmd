@@ -1,11 +1,18 @@
 ### The double materiality of climate physical and transition risks in the euro area - _Journal of Financial Stability_ (2024)
 
-> Gourdel, Monasterolo, Dunz, Mazzocchetti and Parisi, DOI: [10.1016/j.jfs.2024.101233](https://doi.org/10.1016/j.jfs.2024.101233)
-
 + [Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2665~622858d454.en.pdf), ECB working paper No. 2665
 + [SUERF Policy Brief](https://www.suerf.org/suer-policy-brief/54311/the-double-materiality-of-climate-physical-and-transition-risks-in-the-euro-area), No 436
 
+###### Full citation:
+
+```{python}
+#| echo: false
+#| output: asis
+citation_print("double_materiality")
+```
+
 ###### Abstract:
+
 We analyse the double materiality of climate physical and transition risks in the euro area economy and banking sector.
 First, by tailoring the EIRIN Stock-Flow Consistent behavioural model, we provide a dynamic balance sheet assessment of the Network for Greening the Financial System (NGFS) scenarios.
 We find that an orderly transition achieves early co-benefits by reducing CO2 emissions (12% less in 2040 than in 2020) while supporting growth in economic output.
@@ -19,17 +26,7 @@ Our results highlight the crucial role of early and credible climate policies to
 ###### Bibtex entry:
 
 ```bibtex
-@article{gourdel2024double,
-    title = {The double materiality of climate physical and transition risks in the euro area},
-    author = {Gourdel, Régis and Monasterolo, Irene and Dunz, Nepomuk
-        and Mazzocchetti, Andrea and Parisi, Laura},
-    journal = {Journal of Financial Stability},
-    volume = 71,
-    pages = {101233},
-    year = 2024,
-    publisher = {Elsevier},
-    doi = {10.1016/j.jfs.2024.101233}
-}
+{{< include _papers/double_materiality.bib >}}
 ```
 
 ###### Presentations at conferences:

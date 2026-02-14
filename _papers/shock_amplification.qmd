@@ -1,8 +1,15 @@
 ### Shock amplification in an interconnected financial system of banks and investment funds - _Journal of Financial Stability_ (2024)
 
-> Sydow et al., DOI: [10.1016/j.jfs.2024.101234]((https://doi.org/10.1016/j.jfs.2024.101234))
+###### Working paper version:
+[ECB working paper No. 2581](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf)
 
-Working paper version: [ECB working paper No. 2581](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2581~63c8ffb7dc.en.pdf)
+###### Full citation:
+
+```{python}
+#| echo: false
+#| output: asis
+citation_print("shock_amplification")
+```
 
 ###### Abstract:
 This paper shows how the combined endogenous reaction of banks and investment funds to an exogenous shock can amplify or dampen losses to the financial system compared to results from single-sector stress testing models.
@@ -14,19 +21,5 @@ The main driver of additional bank losses are endogenous market losses generated
 ###### Bibtex entry:
 
 ```bibtex
-@article{sydow2024shock,
-    title = {Shock amplification in an interconnected financial system of banks and investment funds},
-    journal = {Journal of Financial Stability},
-    volume = 71,
-    pages = 101234,
-    year = 2024,
-    issn = {1572-3089},
-    doi = {10.1016/j.jfs.2024.101234},
-    author = {Sydow, Matthias and Schilte, Aurore and Covi, Giovanni
-        and Deipenbrock, Marija and Del Vecchio, Leonardo and Fiedor, Pawel
-        and Fukker, Gábor and Gehrend, Max and Gourdel, Régis
-        and Grassi, Alberto and Hilberg, Björn and Kaijser, Michiel
-        and Kaoudis, Georgios and Mingarelli, Luca and Montagna, Mattia
-        and Piquard, Thibaut and Salakhova, Dilyara and Tente, Natalia},
-}
+{{< include _papers/shock_amplification.bib >}}
 ```
